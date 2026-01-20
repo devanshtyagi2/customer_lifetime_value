@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.env
+.venv
+venv/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Data (avoid uploading big/raw files)
+data/raw/
+data/external/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

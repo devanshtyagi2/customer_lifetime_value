@@ -1,0 +1,11 @@
+mlruns
+notebooks
+data
+__pycache__
+*.pyc
+.git
+.gitignore
+tests
+app
+docker
+README.md
